@@ -12,20 +12,21 @@ Each project here reflects my journey in exploring creative and technical soluti
 
 ## Projects
 
+### [EcoScoreApp](https://github.com/gabrielmazor/Digital-Innovation/tree/master/EcoScoreApp)
+A sustainability-focused application designed to promote eco-friendly habits. Features:
+- Calculates a personalized CO2 emissions based on user input
+- Provides actionable insights for a sustainable lifestyle
+- Beautiful and responsive design
+
 ### [ChatApp](https://github.com/gabrielmazor/Digital-Innovation/tree/master/ChatApp)
 A real-time chat application that enables seamless communication between users. Key features include:
 - User authentication
 - Message delivery in real-time
 - Intuitive and user-friendly interface
 
-### [EcoScoreApp](https://github.com/gabrielmazor/Digital-Innovation/tree/master/EcoScoreApp)
-A sustainability-focused application designed to promote eco-friendly habits. Features:
-- Calculates a personalized EcoScore based on user input
-- Provides actionable insights for a sustainable lifestyle
-- Beautiful and responsive design
-
 ### [JavaHW1_Bank](https://github.com/gabrielmazor/Digital-Innovation/tree/master/JavaHW1_Bank)
-A beginner-level Java project simulating basic banking operations. Learn about:
+A beginner-level Java project simulating basic banking operations, to practice Object Oriented Programming.
+Learn about:
 - Account creation and management
 - Simulating transactions (deposits, withdrawals)
 - Object-oriented programming concepts in Java
